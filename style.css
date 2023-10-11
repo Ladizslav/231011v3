@@ -1,0 +1,49 @@
+div {
+    text-transform: uppercase;
+	box-sizing: border-box;
+	padding: 20px;
+ }
+
+.header {
+    background: orange;
+	overflow: hidden;
+}
+.logo {
+	float: left;
+    background: #FF4D69;
+    
+}
+.navigation {
+	float: right;
+    background: #E85F53;
+}
+
+.main-content {
+	overflow: hidden;
+    background: gray;
+	color: #fff;
+}
+
+
+.post {
+	overflow: hidden;
+    background: lightgreen;
+	margin-bottom: 20px;
+}
+
+
+.image {
+	float: left;
+	width: 20%;
+	height: 150px;
+    background: green;
+    
+}
+
+.post_excerpt {
+	float: right;
+	width: 70%;
+    background: darkgreen;
+	padding: 20px;
+	margin: 0;
+}
